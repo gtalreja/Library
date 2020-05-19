@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_cdltd_library.libraray_user" name="x_cdltd_library.libraray_user">f70f58667c3c10107f44c4429932d29b</contains>
+        <role display_value="x_cdltd_library.library_managers" name="x_cdltd_library.library_managers">330f54e27c3c10107f44c4429932d2c8</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 08:47:37</sys_created_on>
+        <sys_id>549fc9727c7450107f44c4429932d2dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_library.libraray_user.x_cdltd_library.library_managers</sys_name>
+        <sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope>
+        <sys_update_name>sys_user_role_contains_549fc9727c7450107f44c4429932d2dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 08:47:37</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library">e07e58667c3c10107f44c4429932d291</application>
+        <file_path/>
+        <instance_id>0e7435821b34541088c56288bd4bcba2</instance_id>
+        <instance_name>adf-may-717-test-001-instructor</instance_name>
+        <name>sys_user_role_contains_549fc9727c7450107f44c4429932d2dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_cdltd_library.libraray_user" name="x_cdltd_library.libraray_user">f70f58667c3c10107f44c4429932d29b</contains><role display_value="x_cdltd_library.library_managers" name="x_cdltd_library.library_managers">330f54e27c3c10107f44c4429932d2c8</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-19 08:47:37</sys_created_on><sys_id>549fc9727c7450107f44c4429932d2dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_library.libraray_user.x_cdltd_library.library_managers</sys_name><sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package><sys_policy/><sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope><sys_update_name>sys_user_role_contains_549fc9727c7450107f44c4429932d2dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-19 08:47:37</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>1764515959</payload_hash>
+        <record_name>x_cdltd_library.libraray_user.x_cdltd_library.library_managers</record_name>
+        <reverted_from/>
+        <source>713bec6e7c3c10107f44c4429932d253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 08:47:37</sys_created_on>
+        <sys_id>949fc9727c7450107f44c4429932d2df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722c1de93b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 08:47:37</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>dc9fc97251745010d35e0ee6e69cc4de</update_guid>
+        <update_guid_history>dc9fc97251745010d35e0ee6e69cc4de:1764515959</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 08:55:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>4cae600283da4432b3e5f743df3255e4</sys_id>
+        <sys_metadata>549fc9727c7450107f44c4429932d2dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_library.libraray_user.x_cdltd_library.library_managers</sys_name>
+        <sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope>
+        <sys_scope_delete display_value="">446c214c2dae435f83d45383094efe21</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_549fc9727c7450107f44c4429932d2dc</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_549fc9727c7450107f44c4429932d2dc">949fc9727c7450107f44c4429932d2df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 08:55:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-18 10:54:18</sys_created_on>
-        <sys_id>9ef2a06a7c3c10107f44c4429932d29c</sys_id>
+        <sys_id>8f1b2c6e7c3c10107f44c4429932d20e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Item name</sys_name>
         <sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope>
         <sys_update_name>sys_dictionary_x_cdltd_library_librarybasetable_item_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-18 10:54:18</sys_updated_on>
+        <sys_updated_on>2020-05-18 11:29:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

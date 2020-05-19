@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="number" label="Number" language="en" table="x_cdltd_library_librarybasetable">
+    <sys_documentation element="u_glide_date_time_1" label="Order Date" language="en" table="x_cdltd_library_librarybasetable">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>u_glide_date_time_1</element>
             <help/>
             <hint/>
-            <label>Number</label>
+            <label>Order Date</label>
             <language>en</language>
             <name>x_cdltd_library_librarybasetable</name>
-            <plural>Numbers</plural>
+            <plural>Order Dates</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-18 10:54:18</sys_created_on>
-            <sys_id>831b2c6e7c3c10107f44c4429932d210</sys_id>
+            <sys_created_on>2020-05-18 14:05:19</sys_created_on>
+            <sys_id>d4be85ae7c7c10107f44c4429932d289</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number</sys_name>
+            <sys_name>Order Date</sys_name>
             <sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package>
             <sys_policy/>
             <sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope>
-            <sys_update_name>sys_documentation_x_cdltd_library_librarybasetable_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_cdltd_library_librarybasetable_u_glide_date_time_1_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-18 10:54:18</sys_updated_on>
+            <sys_updated_on>2020-05-18 14:05:19</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Related variables" section_id="919f8dae7c7c10107f44c4429932d29f" sys_domain="global" table="x_cdltd_library_librarybasetable" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Related variables</caption>
+            <header>false</header>
+            <name>x_cdltd_library_librarybasetable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:09:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>919f8dae7c7c10107f44c4429932d29f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Related variables</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope>
+            <sys_update_name>sys_ui_section_919f8dae7c7c10107f44c4429932d29f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:09:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library">e07e58667c3c10107f44c4429932d291</application>
+        <file_path/>
+        <instance_id>0e7435821b34541088c56288bd4bcba2</instance_id>
+        <instance_name>adf-may-717-test-001-instructor</instance_name>
+        <name>sys_ui_section_919f8dae7c7c10107f44c4429932d29f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Related variables" section_id="919f8dae7c7c10107f44c4429932d29f" sys_domain="global" table="x_cdltd_library_librarybasetable" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Related variables</caption><header>false</header><name>x_cdltd_library_librarybasetable</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:09:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>919f8dae7c7c10107f44c4429932d29f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Related variables</sys_name><sys_overrides/><sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package><sys_policy/><sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope><sys_update_name>sys_ui_section_919f8dae7c7c10107f44c4429932d29f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:09:12</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-88569287</payload_hash>
+        <record_name>LibraryBaseTable</record_name>
+        <reverted_from/>
+        <source>713bec6e7c3c10107f44c4429932d253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 14:30:07</sys_created_on>
+        <sys_id>fb5495627cbc10107f44c4429932d275</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172283120f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 14:30:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>375495627fbc101096bcaeddb2c5e875</update_guid>
+        <update_guid_history>375495627fbc101096bcaeddb2c5e875:-88569287,5fafcdae1d7c10100f4c8f5bf27a63f7:978498950</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 15:57:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0020a059bb8942008000d4af7b910000</sys_id>
+        <sys_metadata>919f8dae7c7c10107f44c4429932d29f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related variables</sys_name>
+        <sys_package display_value="Library" source="x_cdltd_library">e07e58667c3c10107f44c4429932d291</sys_package>
+        <sys_parent display_value="LibraryBaseTable">caf2a06a7c3c10107f44c4429932d253</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Library">e07e58667c3c10107f44c4429932d291</sys_scope>
+        <sys_scope_delete display_value="">446c214c2dae435f83d45383094efe21</sys_scope_delete>
+        <sys_update_name>sys_ui_section_919f8dae7c7c10107f44c4429932d29f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_919f8dae7c7c10107f44c4429932d29f">fb5495627cbc10107f44c4429932d275</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 15:57:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

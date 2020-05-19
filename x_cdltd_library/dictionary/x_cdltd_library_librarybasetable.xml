@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="LibraryBaseTable" max_length="40" name="x_cdltd_library_librarybasetable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Administrative record diary" max_length="40" name="administrative_record_diary" type="string"/>
         <element attributes="encode_utf8=false" label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
+        <element label="Cost" max_length="40" name="cost" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Item name" max_length="40" name="item_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Published Date" max_length="40" name="published_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Publisher" max_length="32" name="publisher" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="InUse" sequence="1" value="InUse"/>
+                <element inactive_on_update="false" label="InStock" sequence="2" value="InStock"/>
+                <element inactive_on_update="false" label="NotInStock" sequence="3" value="NotInStock"/>
+            </choice>
+        </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Order Date" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
         <index name="index">
-            <element name="author"/>
+            <element name="publisher"/>
         </index>
         <index name="index2">
+            <element name="author"/>
+        </index>
+        <index name="index3">
             <element name="sys_class_name"/>
         </index>
     </element>
